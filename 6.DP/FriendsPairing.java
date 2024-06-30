@@ -5,6 +5,7 @@ public class FriendsPairing {
     public static long[] dp;
     public static long f(int i) {
         if(i == 0 || i == 1 || i == 2) {
+            
             return i;
         }
 
