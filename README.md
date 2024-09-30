@@ -80,7 +80,7 @@ AVL Trees - [Link](https://www.youtube.com/watch?v=vRwi_UcZGjU)
 - [Design browser history](https://leetcode.com/problems/design-browser-history/description/)
 - [Remove duplicated in sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Remove nth node from last](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [Swapping nodes in LL](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+- [Swapping nodes in LL](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) - Done
 - [Partition List](https://leetcode.com/problems/partition-list/)
 - [Maximum twin sum](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 - [Add at head for dll]()
